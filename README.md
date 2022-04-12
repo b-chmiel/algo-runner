@@ -1,7 +1,6 @@
 # Algo runner
 
-Util script to test algorithms if output is equal
-to expected one.
+Utility to test implemented algorithms against provided test cases.
 
 Dependencies:
 
